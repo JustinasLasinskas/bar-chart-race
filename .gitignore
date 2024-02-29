@@ -25,4 +25,6 @@ wheels/
 # folders
 venv/
 archive/
-output/
+
+# other files
+output/Largest_European_Countries_by_GDP.mp4
